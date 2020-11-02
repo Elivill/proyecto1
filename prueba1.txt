@@ -1,0 +1,10 @@
+Esto es una prueba de git para ver como funciona. 
+Ire escribiendo los pasos que voy dando para así tenerlo más claro.
+El primero de los pasos ha sido crear un directorio con el nombre de
+proyecto_2, luego he creado un archivo de texto plano llamado prueba1. 
+A continuación he inicidado GIT con git init
+
+Este es el segundo commit. Despues de escribir esto he hecho un git status 
+para ver el estado de mi git y estaba untracked. 
+Seguidamente he hecho un git add y status de nuevo y ya estaba el git en 
+staging area
