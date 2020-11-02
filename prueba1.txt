@@ -7,4 +7,7 @@ A continuación he inicidado GIT con git init
 Este es el segundo commit. Despues de escribir esto he hecho un git status 
 para ver el estado de mi git y estaba untracked. 
 Seguidamente he hecho un git add y status de nuevo y ya estaba el git en 
-staging area
+staging area. 
+Para sacar el commit del staging area y almacenarlos definitivamente 
+he realizado un commit -m "creo que es el primer commit", luego he puesto 
+git show para ver si era cierto y este commit es el HEAD del master. 
